@@ -27,7 +27,7 @@
     <div class="details">
       <h3>Cisco</h3>
       <p><strong>Tech Stack:</strong> Networking Concepts </p>
-      <p><strong>Project:</strong> <a href="#">Project Name at Cisco</a></p>
+      <p><strong>Project:</strong> <a href="#">Network Creation</a></p>
       <p><strong>Certificates:</strong> <a href="https://drive.google.com/file/d/1jIvCt7jQ5aiz6e1KsOvQ20jDzrJrfgtP/view?usp=drive_link" target="_blank">Certificate</a>, <a href="certificate_link2" target="_blank"></a></p>
     </div>
   </div>
