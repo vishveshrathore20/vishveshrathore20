@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishvesh Rathore</h1>
 
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Software developer Skilled In Implementing Backend Technologies</h3>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e476mhrewfa2sfw2p10wwj1dt3n87glgeokkk2ovmdu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="400"/>
+</div>
 
 - 🔭 I’m currently working on [News-app](https://github.com/vishveshrathore20/Kahan-Sandesh-Backend.git) (For Client)
 
