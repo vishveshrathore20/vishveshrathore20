@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Development**
 
-- 💬 Ask me about **Java, Node.js , Javascript**
+- 💬 Ask me about **Java, Node.js , Javascript,Flutter**
 
 - 📫 How to reach me **vishveshrathore20@gmail.com**
 
